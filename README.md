@@ -29,3 +29,10 @@ Para utilizar todo potencial da arquitetura do Bot Framework é necessário ter 
 Para saber mais sobre chatbots acesse o link abaixo:
 
 https://docs.google.com/presentation/d/1cNAbHla9piLTNMIvu8O-yxIhc-skAMIP7z0Yk4GGyCI/edit?usp=sharing
+
+
+## Mão na massa
+
+Nosso primeiro exemplo será o uso do QnA Maker
+
+chatbot-iniciante-qna](https://github.com/phsantos90/chatbot-iniciante-qna)
