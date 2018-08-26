@@ -1,7 +1,7 @@
 # Iniciando em ChatBots com Microsoft Bot Framework
 
 
-O Bot Framework da Microsoft é capaz de trocar mensagens e se integra com os canais de mensageria mais famosos da atualidade como Skype, Telegram, Slack, Facebook Menseger, SMS, e outros. A Microsoft através do Portal Azure fornece diversos tipos de serviços acessórios que tornarão seu chatBot mais inteligente, alguns desses serviços são: Language Understanding (LUIS), FAQ to Bot (QnA Maker), API de reconhecimento de voz, imagens e vídeos.
+O Bot Framework da Microsoft é capaz de trocar mensagens e se integra com os canais de mensageria mais famosos da atualidade como: Skype, Telegram, Slack, Facebook Menseger, SMS, e outros. A Microsoft através do Portal Azure fornece diversos tipos de serviços acessórios que tornarão seu chatBot mais inteligente, alguns desses serviços são: Language Understanding (LUIS), FAQ to Bot (QnA Maker), API de reconhecimento de voz, imagens e vídeos.
 
 ### Pré-requisitos
 Para utilizar todo potencial da arquitetura do Bot Framework é necessário ter o ambiente configurado, abaixo estão listada as ferramentas e serviços que farão parte do seu dia-a-dia no desenvolvimento dos chatbots. Nos próximos exemplos nós aprederemos sobres os outros serviços.
