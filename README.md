@@ -5,6 +5,7 @@ O Bot Framework da Microsoft é capaz de trocar mensagens e se integra com os ca
 
 ### Pré-requisitos
 Para utilizar todo potencial da arquitetura do Bot Framework é necessário ter o ambiente configurado, abaixo estão listada as ferramentas e serviços que farão parte do seu dia-a-dia no desenvolvimento dos chatbots. Nos próximos exemplos nós aprederemos sobres os outros serviços.
+
 **Obs.**: Vamos utilizar a linguagem C#
 
 #### # Ferramentas 
