@@ -25,3 +25,7 @@ Para utilizar todo potencial da arquitetura do Bot Framework é necessário ter 
 | LUIS | https://www.luis.ai/home |
 
 **Obs.**: Para criar a conta no Portal Azure é necessário cartão de crédito internacional. **No ato do cadastro será descontado $ 1,00 (1 dólar)**
+
+Para saber mais sobre chatbots acesse o link abaixo:
+
+https://docs.google.com/presentation/d/1cNAbHla9piLTNMIvu8O-yxIhc-skAMIP7z0Yk4GGyCI/edit?usp=sharing
