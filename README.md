@@ -35,4 +35,4 @@ https://docs.google.com/presentation/d/1cNAbHla9piLTNMIvu8O-yxIhc-skAMIP7z0Yk4GG
 
 Nosso primeiro exemplo será o uso do QnA Maker
 
-chatbot-iniciante-qna](https://github.com/phsantos90/chatbot-iniciante-qna)
+[chatbot-iniciante-qna](https://github.com/phsantos90/chatbot-iniciante-qna)
